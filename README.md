@@ -1,5 +1,5 @@
-Hi there 😄 I'm Hala Slimen
+Hi there 😄 I'm Hala Slimen 🚩
 
-Member at Developer Student Clubs 
+Member at Developer Student Clubs 👩🏻‍💻 
 <br>
-Software engineering student
+Software engineering student 👩🏻‍🎓
