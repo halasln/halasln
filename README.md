@@ -23,5 +23,5 @@ Software engineering student 👩🏻‍🎓
 <div align="center" padding="10"> 
  
   <a href="mailto:halasliimen@gmail.com"><img src="https://img.icons8.com/color/452/gmail-new.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hala-sln/"><img src="https://img.shields.io/badge/-Linkedin-2a68b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hala-sln/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" target="_blank"></a>
 </div>
