@@ -18,3 +18,10 @@ Software engineering student 👩🏻‍🎓
    <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
  
 </div>
+
+   
+<div align="center"> 
+  <a href="https://instagram.com/fellipeutaka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:fellipeutaka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fellipeutaka/"><img src="https://img.shields.io/badge/-Linkedin-2a68b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
