@@ -22,19 +22,10 @@ Software engineering student 👩🏻‍🎓
   
   
   
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***
 
-<p align = "center">
-  
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/hala-sln)
-
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mailto:halasliimen@gmail.com)
-
-
-</p>
    
-<!-- <div align="center" margin="10"> 
+<div align="center" margin="10"> 
  
   <a href="mailto:halasliimen@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hala-sln/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" target="_blank"></a>
-</div> -->
+</div>
