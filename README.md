@@ -1,8 +1,11 @@
 Hi there 😄 I'm Hala Slimen 🚩
 
-Member at Developer Student Clubs 👩🏻‍💻 
+Member of Developer Student Clubs 👩🏻‍💻 
 <br>
-Software engineering student 👩🏻‍🎓
+- 👩🏻‍🎓 Software engineering student 
+- 🔭 I’m currently working as an Intern in a web development company! 😊
+- 🌱 I’m currently learning NextJs / ReactJs / Node JS  🥰
+
 <div >
   <a href="https://github.com/halasln">
 <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=halasln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
